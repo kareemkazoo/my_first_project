@@ -17,3 +17,4 @@ It allows users to manage match results, view statistics, and (optionally) predi
 - **APIs:** Can fetch real match data from external football APIs or input manually.  
 
 ## Project Structure (example)
+This project will be updated regularly with new features.
